@@ -1,10 +1,25 @@
 * {
-  margin: 0%;
   box-sizing: border-box;
+  margin: 0%;
 }
-
 body {
   min-height: 100vh;
-  border: dotted 3px red;
-  padding: 3px;
+  background: url(https://th.bing.com/th/id/R.b39184d015f4e005bb150826fb884ef1?rik=PQQtl4bDCjh2wg&pid=ImgRaw&r=0)
+    0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.titulo {
+  text-align: center;
+}
+.img {
+  text-align: center;
+}
+#button {
+  text-align: left;
+}
+#lontra {
+  width: 100px;
+  background: url(img_navsprites.gif) 0 0;
 }
